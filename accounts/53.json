@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hindi-tv-serial",
+  "private_key_id": "0c86eafdfce4f5239d980e42dfc89d77bfbbdb78",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDwEi0z7Kt6EQI9\nmI5e61DyUTJfKTP7l+xcjschPz7QFMWfSSkYr4iySIFlPKSYYsDnC66egbRi9Zud\n8yZhp3qC9NiyTGbwkOjvKo+Tt7buNXHvCxreGcW4WNQpH68pCMsBtadSLzNactzX\nTCexBeYcEuldC5sj7imhT2qv55TBZ1alsKd8yUimkRTOjljrzxqkaGPNTBcwga91\nVGmwUKLo12QujKMU27B2iOHV8T/l1IEjknILe8Q9quYpyt95JuJdhBTsY6aFwbD+\n8OJs3qhh9Ix4i4/BSeV2mYKMoTQeErfgAKmQ1IGxPuQqJnUXQXx0GgixNlfsBtyb\nkX+vSLDrAgMBAAECggEAGUNIZ3TpzJQaoMG7haiMoZtCyjnLQxgHIuxRbyG5Kett\nqmfn/7WFFIHFwBIEHhcSRp33l619foZrBFGQgek+XqaGYSjiEkGliXl4l2pXQTT1\nktqfzqx2noIWfWdcptxKhJkJjP/zjvqUW8GjUaEVyHGDBiwQ/NR0pAl36B/eCwXx\nLQyhfUZhjW0d2f6jfRk49QK0hj9s1m1YasFyJOBkZhIESLl4oQVphOI42XMNqKUm\nLoHhYZwOh1UwUntfPVOX2LJEjo/pyzfjdYyjUmVwZy4uHx5/Ochg1AnhdVQGp6Fy\nX15QaXP6TNMZRY81yh3pYvPNmKfc3P9OoRVSi7+EIQKBgQD78zehVgpfz80vQxBD\nu97bTFYssusevQLwH+yB6e6cVXIFxqUqHAwT8MzDsItIjndf6P0M2D3hISFHO4EV\nC4D2bRJ97F0vSHc1zfetztRSnGED5GBcC7WpgMRRjfCYotmspvZ7q8i199PXJ+0Z\nkZrTiQufhHN50C98SmF1EX1RoQKBgQDz7hOXaBBNWWddMq6/gT4a655EzVsodAIM\nL/mkr8Z7Q8avWzMXjM7ZVT8uSXuacL4c6sXN5fWqHg0rWbnGPrJ6/XM7d8IAtaDM\nPuiUly6XJ5udUWKN2HMeama4t6kqVTn4wyhKvu16SiwlnRJsh5LkplbxKqDYnsIa\nA/ExKcXPCwKBgA7HIUgxR8J+6cYP5PBUIKo0PAm7JNdUtstm0/R6yCgbSujT0fQ6\nWOsCgMAppsHGuXHCtLUAKgD+dHk9IEEfv5y0oRUJvB193qAlSJXFP+bojTgxOQWt\nGiarCtjNvoL1alcaI/L1DHy/4IkKKnoJdE9cBnaAylUmxOJBap33PKaBAoGBANAq\nRB3ZeNAJk+Q89FQJf26J1K7ycPC8z2KHLowUVVWsKUpMkfVu/LcLwLdHjmvl+tfC\nortrm5JpwuNT1u4PY1ECKex97tmcJnUm2mSz/9aOvoYqheh25wb11mOcmIi/4pEg\nOqpO9Wp/Ed2nhamIqRrnuRpmPo2eLhb1dkd2VpCxAoGANHUjKvKOc2MAt1+FzsiE\n4U8Sk9/shXRC0hV07ws8ZeH2MyqHf60C0WOS+o6E9tlmtw++Z0Hge5yeqjHJF/K8\nhjB9IEuMPeq+3SyftYqvegYdzEXpmBdT+eydHN98mEy7ZVjmWzuWVLQ3h9b4yFiC\nSXJOWDnx5A8zGHMCMWEOGcQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-t-nzoo56h5fvk864spad5yg7jb@hindi-tv-serial.iam.gserviceaccount.com",
+  "client_id": "102391804784869878390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-t-nzoo56h5fvk864spad5yg7jb%40hindi-tv-serial.iam.gserviceaccount.com"
+}

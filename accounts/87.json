@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "charming-autumn-336812",
+  "private_key_id": "166295ebb753a7a107938dbc591f6709695462e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOvKoZ/gtR/uYD\n2kCaamqo+RoMa+9uq4C5XyWqum4IaE7Fd1a5AyemjWy7wVL35kkSRtIWyooZoSyV\nalkTyUw7AQc0RLjILSEz3dcFRgMdghmX8eefWa1Jk+EzCd5oPmyETzFT3UDp6N5l\njD36HEtHquLgfU6nNd98u5FRz4jJaALRKHUWVL6QhP/gjkKBoHltmFAysCBw7PFD\n6V66/WRi5B+QpxooZ5Vv+usESnR8l1GJPQ1wXzEDaDys2btd+BrILmJkksndjjuo\nNatCKzE/Mj1HEVu6aWGsDljdsw54DHFpaSnPp3/3eDT8bvKbe7BA9lR7eWhARFYr\nXpey00CvAgMBAAECggEAA8XVpNvKARkRwYg+HZNLlwHUw91EZVSj6L4fxdnZIDYn\nGdtvrbitBJEYJuUESpndQ4QfWWMg2g7i7WcfcQj/ZyRBqWaHqL+KF5Q41FPOwr8Z\nEHjNrU7JpsoYFgJcGLLq8A8x60HiaWJijJ/eka3qgchQk6A1yz9kcLZLlJ6g9Gv1\nGTIb5fpANzTk+iFWZjLeZA5w2ezvoeztpxI+NbSPY1gSb0cuAXZiy4xM3E8ya2Bn\nZfb8iWf5nf5tFWQTdSnttyALqInNS7dPynUv9DV1tt+/5PxmH0zQCjZpRvAbVM1J\n+KbkH+ozKMF28Aq+d0UgXlJ9MzqduuEsegxK2XPEQQKBgQDxSgBQBcB1wU3Fjsvf\nos+nZBs/R1SUAzMuSOU5MzCkk6z9K/VQ0Ii49YchTtL63Rw9DZL+A6ch4C1uE4uH\n6BU0TmH1D1Oa+tZ5PTUi0rPSWw4veR3lJ7CX79M6SU4CGLT30ajWd0/P97wy0wDA\nZdJ3BhknCtqcE5IMN7uOYCIWSQKBgQDbV2FGcAMei1beD1ZkrpkKxoclY7KL0Oxd\n81U1zyBr7HD5b3q3OdH2my5ZavdRsAANIGXi0aO4PcMjZorPBW3Xse4UKh/3w8Pa\nAzGs899p8z0lnsxE+oxoVq0aAovyfggctYiB1bRampIe8yF1atT3a+lEMHISD9Ib\nByofNeC/NwKBgQC/HzWmLRgobegzbwtv5d+DoJiwg8irwOkeZWEj8Lc79TlWBCa5\nT6SslNbnfC9DxDZk6caf67bL720svtCL4zpAh0GyQeSgYsXVnLTlE26aVcOjuNUE\nOW74ul9e0Me4g2d80JZi4njWq01oGJiEzWJrIupzcXZ9oEbT5KVsfhsh+QKBgDRI\nwfFOZg/z2wMX2NorHGQLKs/o0fiuFonWpSsscmgHdm6e+juO1tPX7dZ2vvmD4J9A\nZ8kHe+VBI7DekpwCiUpvKXc5C2G+EoN3W3IEt+7DgoHjNoICz1FXx+95R+7HyBs/\n0ohQbqtiSQ6DmigpDRblbDdK7QYNK2Ix9QJ3j1lFAoGBALnh729/NvThoFNG3zRc\nkz4iJVhmm8IUre8kdQeFu/5d7T8mjt/Aq6abJhWR1U3yDaVZecODSpfkBRkLH/JX\n9PvcaTsrwziM+CjG3B2BQPRzFx3mXGL6eLoNglzG17G7/IwEmxgbYAhobgnAzHf4\nPl4M6G2ACCGZh1P5owDnxYeh\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-asdvlwygwny9552rse41o0k4ml@charming-autumn-336812.iam.gserviceaccount.com",
+  "client_id": "100672345587996825221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-asdvlwygwny9552rse41o0k4ml%40charming-autumn-336812.iam.gserviceaccount.com"
+}
